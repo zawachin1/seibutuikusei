@@ -81,7 +81,7 @@ h1  {
 }
 
 header {
-background-image:url(img/top2.jpg);
+background-image:url(top2.jpg);
 height:600px;
 background-size: cover;
 padding-top: 150px;
@@ -134,7 +134,7 @@ transition: 0.3s;
 .shop {
   color: #e3f5e0;
   padding: 30px;
-  background-image: url(img/beach.jpg); 
+  background-image: url(beach.jpg); 
   background-color: #e3f5e0;
   background-blend-mode: overlay;
   height:auto;
@@ -336,46 +336,46 @@ input:checked + label .description {
 }
 
 .harucard[for="c1"] {
-    background-image: url(img/seri.jpg);
+    background-image: url(seri.jpg);
 }
 .harucard[for="c2"] {
-    background-image: url(img/nazuna.jpg);
+    background-image: url(nazuna.jpg);
 }
 .harucard[for="c3"] {
-    background-image: url(img/gogyou.jpg);
+    background-image: url(gogyou.jpg);
 }
 .harucard[for="c4"] {
-    background-image: url(img/hakobera.jpg);
+    background-image: url(hakobera.jpg);
 }
 .harucard[for="c5"] {
-  background-image: url(img/koonitabirako.jpg);
+  background-image: url(koonitabirako.jpg);
 }
 .harucard[for="c6"] {
-  background-image: url(img/suzuna.jpg);
+  background-image: url(suzuna.jpg);
 }
 .harucard[for="c7"] {
-  background-image: url(img/suzusiro.jpg);
+  background-image: url(suzusiro.jpg);
 }
 .akicard[for="d1"] {
-  background-image: url(img/hagi.jpg);
+  background-image: url(hagi.jpg);
 }
 .akicard[for="d2"] {
-  background-image: url(img/susuki.JPG);
+  background-image: url(susuki.JPG);
 }
 .akicard[for="d3"] {
-  background-image: url(img/kuzu.jpg);
+  background-image: url(kuzu.jpg);
 }
 .akicard[for="d4"] {
-  background-image: url(img/nadesiko.JPG);
+  background-image: url(nadesiko.JPG);
 }
 .akicard[for="d5"] {
-background-image: url(img/ominaesi.jpg);
+background-image: url(ominaesi.jpg);
 }
 .akicard[for="d6"] {
-background-image: url(img/hujibakakama.jpg);
+background-image: url(hujibakakama.jpg);
 }
 .akicard[for="d7"] {
-background-image: url(img/kikyou.jpg);
+background-image: url(kikyou.jpg);
 }
 .syoukai{
 width: 100%;
@@ -385,7 +385,7 @@ padding:1%;
 display: flex;
 align-items: center;
 justify-content: center;
-background-image: url(img/beach.jpg); 
+background-image: url(beach.jpg); 
 border-radius: 20px;
 background-color: #e3f5e0;
 background-blend-mode: overlay;
@@ -410,7 +410,7 @@ font-family: Kaisei Opti;
 
 .price {
   margin-top: 10px;
- background-image: url(img/beach.jpg); 
+ background-image: url(beach.jpg); 
       background-color: #e3f5e0;
 background-blend-mode: overlay;
 height:800px;

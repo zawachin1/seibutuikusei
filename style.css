@@ -134,7 +134,6 @@ transition: 0.3s;
 .shop {
   color: #e3f5e0;
   padding: 30px;
-  background-image: url(beach.jpg); 
   background-color: #e3f5e0;
   background-blend-mode: overlay;
   height:auto;
@@ -531,7 +530,7 @@ margin-right: 70px;
 .slider{
     width:100%;
     overflow:hidden;
-    padding:30px 0;
+    padding:20px 0;
 }
 
 .slide-track{
